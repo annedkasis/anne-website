@@ -76,16 +76,16 @@ const theme = createMuiTheme({
     },
     fonts: {
       title: {
-        size: 1.9,
-        sizeM: 2.5,
-        sizeL: 2.7,
+        size: 1.7,
+        sizeM: 2.0,
+        sizeL: 2.3,
         weight: 600,
         lineHeight: 1.1
       },
       subTitle: {
         size: 1.05,
-        sizeM: 1.2,
-        sizeL: 1.35,
+        sizeM: 1.15,
+        sizeL: 1.30,
         weight: 300,
         lineHeight: 1.1
       },
@@ -94,14 +94,14 @@ const theme = createMuiTheme({
         weight: 600
       },
       content: {
-        size: 1.1,
-        sizeM: 1.15,
-        sizeL: 1.2,
+        size: 0.9,
+        sizeM: 1,
+        sizeL: 1.1,
         lineHeight: 1.6
       },
       contentHeading: {
-        h2Size: 1.5,
-        h3Size: 1.3,
+        h2Size: 1.4,
+        h3Size: 1.33,
         weight: 600,
         lineHeight: 1.3
       },
