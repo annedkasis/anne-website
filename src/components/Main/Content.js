@@ -20,10 +20,10 @@ const styles = theme => ({
       margin: "2em 0"
     },
     "& .gatsby-resp-image-link": {
-      margin: "2em -1.5rem",
+      margin: "0",
       border: "none",
       [`@media (min-width: ${theme.mediaQueryTresholds.M}px)`]: {
-        margin: "2.5em -3.5rem"
+        margin: "0"
       }
     },
     "& h2, & h3": {
