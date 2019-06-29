@@ -116,7 +116,7 @@ const InfoHeader = props => {
           <img src={avatar} alt="" />
         </div>
       </Link>
-      <h1 className={classes.title}>
+      <h1 className={classes.title} >
         {config.infoTitle.replace(/ /g, "\u00a0")}
         <small>{config.infoTitleNote}</small>
       </h1>
