@@ -26,10 +26,15 @@ An hour passed and I checked my phone again, it was already at the 2000th bar, 1
 ### 9000 steps
  
 *"Pls make a CT scan request and give it to me at Ward 11. Salamat."*
+
 *"Pls go the the OR to get the specimen and send it to the lab."*
+
 *"Ann, asan na yung CT plates ni..."*
+
 *"Pakuha naman ng blood ni..."*
+
 *"Meet tayo sa blood bank tapos padala ng dugo sa OR. Slamat ann."*
+
 *"Asan ka? Pacheck naman CSF results ni...*"*
  
 It was already past my daily goal when I next checked my phone. I was happy for a few seconds because of the confettis of congratulations on my phone screen, but my mood went down along with the confettis.
@@ -62,7 +67,7 @@ I didn't reply. It's his job. I was already exhausted of going up and down the s
  
 Then, as we were waiting for blood to be processed outside the Blood Bank around 30 minutes past midnight, he talked.
  
-"Bakit kaya ganito ang sistema? Ang dami ko nang nakaaway at ang daming pagsisinungaling para lang magpaapprove ng mga bagay. Mismong pagkuha ng dugo para sa dinudugong pasyente, pahirapan pa. Hindi naman para sa amin tong ginagawa namin."
+*"Bakit kaya ganito ang sistema? Ang dami ko nang nakaaway at ang daming pagsisinungaling para lang magpaapprove ng mga bagay. Mismong pagkuha ng dugo para sa dinudugong pasyente, pahirapan pa. Hindi naman para sa amin tong ginagawa namin."*
  
 Unfortunately, my mind and body could only take enough. I could not even say anything, silenced by a mixture of guilt, sadness, sympathy, anger.
  

@@ -2,8 +2,8 @@
 title: About Me
 menuTitle: About Me
 ---
-![display pic](displaypic.JPG
-"Photo")
+![display pic](displaypic.JPG "Photo"){width=100 height=50}
+
 
 Hi! I'm Anne Asis, a newly-minted graduate of Medicine going through a life transition. 
 
