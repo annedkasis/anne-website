@@ -2,7 +2,7 @@
 title: Pray
 subTitle: 
 category: essays
-cover: 
+cover: un_exam.jpg
 ---
 
 At this point, closing my eyes no longer gives me rest because as I try to sleep, a slideshow of images and fragments of information disturb my peace. There is looming fear that I might forget everything that I just read for the day — all efforts wiped out. Is this what the clinical form of anxiety feels like? 
